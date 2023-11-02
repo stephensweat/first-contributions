@@ -21,6 +21,7 @@
 - [0xmery](https://github.com/0xmery)
 - [Jeremie Bogaert](https://github.com/jebogaert)
 - [Ricardo Medeiros](https://github.com/medeirosricardo)
+- [Stephen Sweat](https://github.com/stephensweat)
 - [Success John](https://github.com/success-john)
 - [Dave Northern](https://github.com/davenorthern)
 - [Harsh Trivedi](https://github.com/Harsh4999)
